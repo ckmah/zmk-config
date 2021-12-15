@@ -61,7 +61,7 @@
    &trans   &kp HOME &kp UP   &kp END   &trans &trans                   &trans &trans  &trans  &trans  &trans  &trans
    &trans   &kp LEFT &kp DOWN &kp RIGHT &trans &trans                   &trans &trans  &trans  &trans  &trans  &trans
    &trans   &trans   &trans   &trans    &trans &trans                   &trans &trans  &trans  &trans  &trans  &trans
-                    	     &kp LGUI &trans   &ext_power EP_TOG        &ext_power EP_TOG   &trans    &kp RALT
+                    	      &ext_power EP_TOG  &trans   &kp SPACE     &kp RET   &trans    &kp RALT
                         >;
                 };
         };
